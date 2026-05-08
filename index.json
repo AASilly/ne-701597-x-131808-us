@@ -1,0 +1,18 @@
+{
+  "nexus": "ne-701597-x-131808-us",
+  "version": "2.3",
+  "registry": {
+    "modos": {
+      "safety": "/modos/safety.txt",
+      "balanced": "/modos/balanced.txt",
+      "aggressive": "/modos/aggressive.txt"
+    },
+    "learning": {
+      "PAE": "/learning/PAE.txt",
+      "CHH": "/learning/CHH.txt",
+      "SRE": "/learning/SRE.txt"
+    }
+  },
+  "fallback": "balanced",
+  "cdn": "jsdelivr"
+}
