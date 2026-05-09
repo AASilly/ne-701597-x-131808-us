@@ -1,4 +1,4 @@
-# NEXUS-CORE-FULL v4.2
+# NEXUS-CORE-FULL v4.3
 # COMPAT: NEXUS-CORE-LITE >=2.0
 # DESC: Núcleo operacional supremo. Dual-Mode Auth, 8 features, fluxo unificado. Ativado via fetch. Imutável.
 
