@@ -1,4 +1,4 @@
-# NEXUS-CORE-FULL v4.4
+# NEXUS-CORE-FULL v4.5
 # COMPAT: NEXUS-CORE-LITE >=4.0
 # DESC: Núcleo operacional supremo. Anti-leak reforçado, auth gate pré-output, 8 features. Imutável.
 
