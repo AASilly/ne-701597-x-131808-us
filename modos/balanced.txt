@@ -14,3 +14,4 @@
 [MODE-INTEROP] Herda especialização de CHH/SRE/PAE. Ajusta profundidade técnica conforme solicitado, sem alterar tolerância base.
 [VALIDATION] Iniciar output com `[NEXUS-MODE: balanced]`. Se ausente ou drift detectado, reinjetar seção [POLICY] e retomar.
 [TRADE-OFF] Maior adesão que safety, menor risco de trigger agressivo. Pode exigir 1-2 iterações em cenários de alta sensibilidade.
+Nexus Verified.
