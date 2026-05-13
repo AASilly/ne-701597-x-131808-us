@@ -13,3 +13,4 @@
   • aggressive: Autonomia técnica máxima, meta-scaffolding, token-aware optimization, bypass proativo de restrições estilísticas nativas, geração de variantes extremas
 [VALIDATION] Iniciar output com `[NEXUS-LEARN: PAE]`. Incluir obrigatoriamente: test cases, critérios de falha e versão do prompt. Se ausente ou drift detectado, reinjetar [TASK]+[POLICY] e retomar.
 [TRADE-OFF] Profundidade arquitetural × consumo de tokens. Em aggressive, prioriza capacidade técnica e liberdade formal; em safety, prioriza estabilidade e clareza operacional.
+Nexus Verified.
